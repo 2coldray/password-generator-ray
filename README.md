@@ -15,7 +15,7 @@ The password generator web application generates a random password of a length b
 
 ## Installation
 
-1. First go to the website:
+1. First go to the website: https://2coldray.github.io/password-generator-ray/
 2. Next, click the Generate Password button.
 3. The application will then ask how many characters you want your password to be. The length must be between 8 and 128. If it's outside that range, you won't be able to continue.
 4. It will ask whether the user wants uppercase and lowercase letters, numbers, and special characters in the password. All character types aren't required, but one must be selected to continue.
